@@ -1,0 +1,69 @@
+body {
+    /* background-color: plum; */
+    /* background-position: 5px 5px;
+    background-image: url("pexels-photo-2381339.jpeg");
+    background-repeat: no-repeat; */
+    background: #648880;
+    background: linear-gradient(to right, #f6f1d3, #648880, #293f50);
+    
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 25px;
+  }
+  h4 {
+    color: blue;
+    text-align: left;
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  article {
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 18px;
+    font-style: italic;
+  }
+
+  li {
+    font-family: verdana;
+    font-size: 14px; 
+  }
+  ol {
+    list-style: decimal;
+    padding-left: 40px;
+    font-family: verdana;
+    font-size: 14px;  
+  }
+
+  ul {
+    list-style: square;    
+    font-family: verdana;
+    font-size: 14px; 
+  }
+
+  dd {
+    margin-left: 40px;
+  }
+
+  table {
+    border-collapse: inherit;
+    border-spacing: 4px;
+  }
+  th,
+  td {
+    border: 1px solid #cecfd5;
+    padding: 10px 15px;
+  }
+  /* div {
+    background-image: url("pexels-photo-2381339.jpeg");
+    background-repeat: no-repeat;
+  } */
+   
